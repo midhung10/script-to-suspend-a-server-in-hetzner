@@ -20,15 +20,15 @@ Project () {
 	do
 		case $REPLY in
 			2)
-				PROJECT=RGPwlV1yYLjiAIoQnpScYzImdL8LvxIOH9RO3MVIxlEqapykSIjf21uciiqynNIR
+				PROJECT=test1_token
 				break
 				;;
 			3)
-				PROJECT=locP0kmJspVC0B6iO5m1oz8tYlFbLMiDQ0ZPHq3MGbcuDWh6jeUU8w5ZVRpijZ24
+				PROJECT=egluweb_token
 				break
 				;;
 			4)
-				PROJECT=wMyDfpJl1vhHOyotcTH32IR2A3URKt3p5NZwbsGxhFG8vXKt2IbQ8mEzfUes4sm1
+				PROJECT=Gafoorji_token
 				break
 				;;	
 			*)
